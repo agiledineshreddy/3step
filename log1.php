@@ -275,7 +275,7 @@ magnify("myimage", 3);
         
         </style>
       </form>
-     <div><p>Not registered yet <a href="reg1.php">Register Here</a></p></div>
+     <div><p>Not registered yet <a href="index.php">Register Here</a></p></div>
     </div>
 </body>
 </html>
