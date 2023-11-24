@@ -199,7 +199,7 @@ function magnify(imgID, zoom) {
 <!DOCTYPE html>
 <html>
 <body>
-<form action="reg1.php" method="post">
+<form action="index.php" method="post">
   <div class="main">
    
 <div class="form-group">
