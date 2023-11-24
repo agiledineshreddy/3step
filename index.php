@@ -268,7 +268,7 @@ magnify("myimage", 3);
 </script>
 
 
-            <div><p>Already Registered <a href="log1.php">Login Here</a></p></div>
+            <div><p>Already Registered <a href="2.php">Login Here</a></p></div>
             <style>
             .green{background-color: green;}
             .red{background-color: red;}
