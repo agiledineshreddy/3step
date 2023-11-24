@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (isset($_SESSION["user"])) {
-   header("Location: index1.php");
+   header("Location: show.php");
 }
 ?>
 <!DOCTYPE html>
@@ -166,7 +166,7 @@ function magnify(imgID, zoom) {
                                     if($count>=1){
                                      session_start();
                                        $_SESSION["user"] = "yes";
-                                      header("Location: index1.php");
+                                      header("Location: show.php");
                                        die();
                                            }
                                            else{
@@ -190,7 +190,7 @@ function magnify(imgID, zoom) {
           }
            else{
                echo '<script>
-               window.location.href = "log1.php";
+               window.location.href = "2.php";
               alert("login failed.email does not match")
               </script>';
            }
