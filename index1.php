@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!isset($_SESSION["user"])) {
-   header("Location: log1.php");
+   header("Location: 2.php");
 }
 ?>
 <!DOCTYPE html>
