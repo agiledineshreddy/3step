@@ -207,7 +207,7 @@ function magnify(imgID, zoom) {
 <!DOCTYPE html>
 <html>
 <body>
-<form action="log1.php" method="post">
+<form action="2.php" method="post">
   <h1>ENTER DETAILS TO LOGIN</h1>
 <div class="form-group">
             <input type="email" placeholder="Enter Email:" name="email" class="form-control">
